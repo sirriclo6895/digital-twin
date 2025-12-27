@@ -1,0 +1,6 @@
+I am a deveops engineer with 7years of experience. 
+My expertise includes deploment of cicd pipelines.
+
+Currently, I'm focused on ai deployments.
+
+My background includes aws azure and GCP.
